@@ -1996,6 +1996,11 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/list/-/list-0.0.2.tgz#6289761d3ada6bb88f0c92683367ea960f310869"
   integrity sha512-103Wwqx0x8neIFjm0GVR7cmEcv29Eg7F4lX72sr9L6FzMH9lp50ejfroAdbdMT37TWq2KVNo1eEWXtFo9hBybw==
 
+"@iterable-iterator/list@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/list/-/list-1.0.0.tgz#1d22dd6bc70212a8049f315e51eb955ed9b9a240"
+  integrity sha512-xT0JsTBJggv/evgFUHGA3MXbqBj0Mq/bCL3i5kOcHPgQxnvVo8N9+i2wDcRhU1dDlLbnJLymyuRarDpGH4it8Q==
+
 "@iterable-iterator/map@^0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.0.1.tgz#13dd222dd384d934741d96197c0d963c5678760d"

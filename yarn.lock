@@ -1986,7 +1986,12 @@
   dependencies:
     "@iterable-iterator/zip" "^0.0.2"
 
-"@iterable-iterator/iter@0.0.2", "@iterable-iterator/iter@^0.0.2":
+"@iterable-iterator/iter@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-1.0.0.tgz#a399879bc4cb53b90edca7df6496cdf81b42b1c0"
+  integrity sha512-aZ2nhrbwH4iOXmVfWrN76sBELRNQVucUJWbq5kz6+x0JKAh22mhJ1CFExPi67bC6JwVjrdm2Wsed9xLG0AvClQ==
+
+"@iterable-iterator/iter@^0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
   integrity sha512-+q2BxI+awes71qm4M5zLXaJK7GUy1Tbt5K7YKTU3Yl8DgCdQxeHBbkAIxXAv49BoS2eLx5cLXHdpX6ybzvA2XQ==

@@ -2013,10 +2013,10 @@
   dependencies:
     "@failure-abstraction/error" "^5.0.5"
 
-"@iterable-iterator/range@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
-  integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
+"@iterable-iterator/range@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.0.tgz#7cb75cecb09621821e4c710ac785ef4159d75216"
+  integrity sha512-FuGfd6oCyoZ+d47kJP9c492//qsNVOFIlIIe20aJA2jPQYjae+LhWkdS5h8c7z4zUC5jhWxamSlYBC7BIS2+TQ==
 
 "@iterable-iterator/repeat@^0.0.1":
   version "0.0.1"
